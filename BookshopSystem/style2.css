@@ -1,0 +1,74 @@
+body {
+    background-image: url("images/img_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(127, 255, 212);
+}
+
+.whole {
+    float: right;
+    margin-right: 39%;
+    margin-top: 7%;
+    font-size: 15px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.bookshop {
+    margin-left: 30%;
+    color: rgb(0, 52, 100);
+}
+
+.user {
+    margin-top: 1%;
+    margin-left: 18%;
+}
+
+input[type=submit] {
+    box-shadow: 10px 10px 8px rgb(44, 44, 44);
+    float: right;
+    background-color: rgb(54, 54, 54);
+    color: rgb(231, 231, 231);
+    padding: 8px 26px;
+    border-radius: 8px;
+    margin-right: 35%;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+input:hover,
+input:active {
+    background-color: rgb(219, 216, 216);
+    color: rgb(8, 2, 2);
+}
+
+.shadow {
+    box-shadow: 30px 30px 15px rgb(0, 0, 0);
+    border-radius: 8px 50px;
+    height: 70%;
+    background-color: rgba(255, 254, 254, 0.651);
+}
+
+.first {
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+.signup {
+    box-shadow: 10px 10px 8px rgb(56, 56, 56);
+    margin-left: 40%;
+    text-decoration: none;
+    background-color: rgb(61, 61, 61);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+}
+
+.user {
+    margin-top: 1%;
+    margin-left: 18%;
+}
+
+a:hover,
+a:active {
+    background-color: rgb(219, 216, 216);
+    color: rgb(8, 2, 2);
+}

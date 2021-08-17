@@ -1,0 +1,54 @@
+body {
+    background-color: gray;
+    background-image: url("images/img_17.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.shadow {
+    box-shadow: 5px 15px 30px 20px rgb(65, 64, 64);
+    border-radius: 15px;
+    height: 90%;
+    width: 60%;
+    background-color: rgba(224, 224, 224, 0.603);
+}
+
+.whole {
+    float: right;
+    margin-right: 21%;
+    margin-top: 2%;
+    font-size: 18px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.seller {
+    margin-top: 15%;
+    margin-left: 63%;
+}
+
+input[type=submit] {
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
+    float: right;
+    background-color: rgb(54, 54, 54);
+    color: rgb(231, 231, 231);
+    padding: 8px 26px;
+    border-radius: 8px;
+    margin-right: 70%;
+}
+
+input:hover,
+input:active {
+    background-color: rgb(219, 216, 216);
+    color: rgb(8, 2, 2);
+}
+
+#myimg {
+    border-radius: 15px 0px 0px 15px;
+}
+
+.imgage {
+    margin-top: 0%;
+    float: left;
+    margin-bottom: -8%;
+    border-radius: 8px 50px;
+}

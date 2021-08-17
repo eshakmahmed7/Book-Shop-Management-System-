@@ -1,0 +1,66 @@
+
+body{
+      background-color:#535c68;
+      } 
+
+
+      a:link, a:visited {
+			  
+            color: rgba(37, 67, 92, 0.342);
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 8px;
+          }
+
+          a:hover, a:active {
+            background-color: rgba(61, 73, 141, 0.205);
+          }
+.shadow {
+      box-shadow: 5px 15px 30px 25px rgb(65, 64, 64);
+      border-radius: 15px;
+      height: 90%;
+      width: 60%;
+      background-color: rgba(224, 224, 224, 0.877);
+  }
+  
+  .whole {
+      float: right;
+      margin-right: 21%;
+      margin-top: 2%;
+      font-size: 18px;
+      font-family: 'Otomanopee One', sans-serif;
+  }
+  
+  .seller {
+      margin-top: 10%;
+      margin-left: 60%;
+  }
+  
+  input[type=submit] {
+      box-shadow: 10px 10px 20px rgb(0, 0, 0);
+      float: right;
+      background-color: rgb(54, 54, 54);
+      color: rgb(231, 231, 231);
+      padding: 8px 26px;
+      border-radius: 8px;
+      margin-right: 70%;
+  }
+  
+  input:hover,
+  input:active {
+      background-color: rgb(219, 216, 216);
+      color: rgb(8, 2, 2);
+  }
+  
+  #myimg {
+      border-radius: 10px 0px 0px 10px;
+  }
+  
+  .imgage {
+      margin-top: 0%;
+      float: left;
+      margin-bottom: 0%;
+      border-radius: 10px 50px;
+  }

@@ -1,0 +1,50 @@
+body {
+    background-color: #d2d3d6;
+    background-image: url("images/img_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.whole {
+    float: right;
+    margin-right: 43%;
+    margin-top: 7%;
+    font-size: 15px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+input[type=submit] {
+    box-shadow: 10px 10px 10px rgb(80, 80, 80);
+    float: right;
+    background-color: rgb(54, 54, 54);
+    color: rgb(231, 231, 231);
+    padding: 8px 26px;
+    border-radius: 8px;
+    margin-right: 37%;
+}
+
+.user {
+    margin-top: 1%;
+    margin-left: 18%;
+}
+
+.admin {
+    margin-left: 30%;
+}
+
+.shadow {
+    box-shadow: 30px 30px 30px rgb(37, 37, 37);
+    border-radius: 8px 50px;
+    height: 70%;
+    background-color: rgba(211, 211, 211, 0.452);
+}
+
+.invalid {
+    float: right;
+}
+
+input:hover,
+input:active {
+    background-color: rgb(219, 216, 216);
+    color: rgb(8, 2, 2);
+}
